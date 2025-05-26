@@ -1,13 +1,13 @@
-# Tether USD (USDT) Smart Contract
+# Flash USD (USDT) Smart Contract
 
 A Solidity implementation of the Tether USD (USDT) ERC20 token.
 
 ## Features
 
-- **Name**: Tether USD
+- **Name**: USDT
 - **Symbol**: USDT
 - **Decimals**: 6 (to match actual USDT)
-- **Total Supply**: 200 Billion USDT
+- **Total Supply**: 100 Million USDT
 - **Functionality**: Mintable and burnable
 
 ## Technical Details
