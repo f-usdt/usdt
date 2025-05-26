@@ -1,4 +1,4 @@
-# Flash USD (USDT) Smart Contract
+# Flash USDT (USDT) Smart Contract
 A Solidity implementation of the USDT (USDT) ERC20 token.
 
 ## Features
