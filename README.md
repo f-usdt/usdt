@@ -12,7 +12,7 @@ A Solidity implementation of the USDT (USDT) TRC20 token.
 This implementation uses OpenZeppelin's TRC20, TRC20Burnable, and Ownable contracts as a foundation. The contract allows:
 - The owner to mint new tokens
 - Any token holder to burn their tokens
-- A fixed decimal of 6 (instead of the TRC20 default of 18)
+- A fixed decimal of 6
 
 ## Dependencies
 - OpenZeppelin Contracts v5.0.0 
